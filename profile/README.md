@@ -8,9 +8,8 @@ Visit us at [ciretose.com](https://ciretose.com) to explore our projects!
 
 We create fun, useful side projects including:
 
-- **WiFi/Check** – A quick utility to check your WiFi status
+- **WiFi Check** – A quick utility to check your WiFi status
 - **Hash/Check** – A handy tool for verifying file hashes
-- **Games** – Small browser-based games to play and enjoy
 - **Podcast** – A podcast where we chat about code, tech, and the things we're learning
 - **Other Tools & Utilities** – Various small utilities and experiments
 
