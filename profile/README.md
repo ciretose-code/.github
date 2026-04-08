@@ -8,6 +8,7 @@ Visit us at [ciretose.com](https://ciretose.com) to explore our projects!
 
 We create fun, useful side projects including:
 
+- **Eyeballs** - A simple way to keep you screen awake while your AI Agent does its thing. 😉
 - **WiFi Check** – A quick utility to check your WiFi status
 - **Hash/Check** – A handy tool for verifying file hashes
 - **Podcast** – A podcast where we chat about code, tech, and the things we're learning
