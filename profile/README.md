@@ -1,6 +1,6 @@
 # Welcome to ciretose-code 👋
 
-We are a small group of passionate developers based in **Portland, Oregon**, who love to code, learn, and share what we build.
+We are a small group of passionate developers based in **Oregon**, who love to code, learn, and share what we build.
 
 Visit us at [ciretose.com](https://ciretose.com) to explore our projects!
 
@@ -8,11 +8,11 @@ Visit us at [ciretose.com](https://ciretose.com) to explore our projects!
 
 We create fun, useful side projects including:
 
-- 🔌 **WiFi/Check** – A quick utility to check your WiFi status
-- #️⃣ **Hash/Check** – A handy tool for verifying file hashes
-- 🎮 **Games** – Small browser-based games to play and enjoy
-- 🎙️ **Podcast** – A podcast where we chat about code, tech, and the things we're learning
-- 🔧 **Other Tools & Utilities** – Various small utilities and experiments
+- **WiFi/Check** – A quick utility to check your WiFi status
+- **Hash/Check** – A handy tool for verifying file hashes
+- **Games** – Small browser-based games to play and enjoy
+- **Podcast** – A podcast where we chat about code, tech, and the things we're learning
+- **Other Tools & Utilities** – Various small utilities and experiments
 
 ## 💡 Our Philosophy
 
