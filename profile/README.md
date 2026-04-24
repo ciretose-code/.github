@@ -1,22 +1,14 @@
-# Welcome to ciretose-code 👋
-
-We are a small group of passionate developers based in **Oregon**, who love to code, learn, and share what we build.
+# Welcome to ciretose 👋
 
 Visit us at [ciretose.com](https://ciretose.com) to explore our projects!
 
-## 🛠️ What We Build
+## 🛠️ What We Do
 
-We create fun, useful side projects including:
-
-- **Eyeballs** - A simple way to keep you screen awake while your AI Agent does its thing. 😉
-- **WiFi Check** – A quick utility to check your WiFi status
-- **Hash/Check** – A handy tool for verifying file hashes
-- **Podcast** – A podcast where we chat about code, tech, and the things we're learning
-- **Other Tools & Utilities** – Various small utilities and experiments
+Mostly, just entertain ourselves with side projects...
 
 ## 💡 Our Philosophy
 
-We believe in learning by doing. Every project we share is a chance to explore something new, try a different technology, or solve a small problem in a creative way. We're hobbyists at heart who enjoy the craft of coding.
+We believe in learning by doing. Every project we share is a chance to explore something new, try a different technology, or solve a small problem in a creative way. We're hobbyists at heart who enjoy the craft of coding - or at least the craft of telling an AI what to code...
 
 ## 📬 Get in Touch
 
